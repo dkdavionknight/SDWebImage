@@ -1,0 +1,1 @@
+../../SDWebImageCodersManager.h
